@@ -1,0 +1,33 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   plot1.R
+#	new file:   plot1.png
+#	new file:   plot2.R
+#	new file:   plot2.png
+#	new file:   plot3 - Copy.png
+#	new file:   plot3.R
+#	new file:   plot4.R
+#	new file:   plot4.png
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    1.txt
+#	modified:   plot2.R
+#	modified:   plot2.png
+#	deleted:    plot3 - Copy.png
+#	modified:   plot3.R
+#	modified:   plot4.R
+#	modified:   plot4.png
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	plot3.png
+
